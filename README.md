@@ -30,3 +30,9 @@ Calculate partisanship index for state legislative districts (state house/senate
 * swing precincts maps
 * county-level maps for swing counties
 * Python code will be posted soon
+
+***
+
+**Tools:** Python - Pandas, Geopandas, Matplotlib
+
+**Contact:** devon@ankar.io
