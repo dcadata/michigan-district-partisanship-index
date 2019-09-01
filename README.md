@@ -10,6 +10,17 @@ Calculate partisanship index for state legislative districts (state house/senate
 
 ### [Sources](https://github.com/dcadata/michigan-district-partisanship-index/blob/master/michigan-elections-data-sources.md)
 
+### High-Level Process
+
+* translated Cook PVI process for the state level
+* get gubernatorial election results for last two elections (2018, 2014) at precinct-level
+  * split precincts were apportioned based on area lying in each component district (as calculated from shapefiles)
+* average gubernatorial results across both years
+  * at district level
+  * statewide
+* subtract statewide average from district-wide average, i.e. district-wide minus statewide
+* captures difference between district-wide gubernatorial results vs. statewide gubernatorial results, aka partisanship of the district
+
 ### Coming Soon
 
 * governor/president/senate/etc. results by state house/senate district
