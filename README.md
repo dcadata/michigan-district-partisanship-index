@@ -28,4 +28,5 @@ Calculate partisanship index for state legislative districts (state house/senate
 * governor/president/senate/etc. results by state house/senate district
 * precinct-level election results maps
 * swing precincts maps
+* county-level maps for swing counties
 * Python code will be posted soon
