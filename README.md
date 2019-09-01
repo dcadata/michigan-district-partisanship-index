@@ -14,7 +14,7 @@
 
 ## High-Level Process
 
-* translated Cook PVI process for the state level
+* translated Cook PVI process from national to state level
 * get precinct-level gubernatorial election results for last two elections (2018, 2014) from SOS
 * use shapefiles to find out which precincts lie within which state house/senate districts
   * split precincts were apportioned based on area lying in each component district
@@ -31,6 +31,7 @@
 * precinct-level election results maps
 * swing precincts maps
 * county-level maps for swing counties
+* partisanship index calculation for other states (TX? NC?)
 * Python code will be posted soon
 
 ***
