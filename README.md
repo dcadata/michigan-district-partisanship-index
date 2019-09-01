@@ -9,3 +9,10 @@ Calculate partisanship index for state legislative districts (state house/senate
 ### [Data Summary](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/pvi-tables)
 
 ### [Sources](https://github.com/dcadata/michigan-district-partisanship-index/blob/master/michigan-elections-data-sources.md)
+
+### Coming Soon
+
+* governor/president/senate/etc. results by state house/senate district
+* precinct-level election results maps
+* swing precincts maps
+* Python code will be posted soon
