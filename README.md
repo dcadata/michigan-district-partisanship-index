@@ -17,12 +17,12 @@
 * get precinct-level gubernatorial election results for last two elections (2018, 2014) from SOS
 * use shapefiles to find out which precincts lie within which state house/senate districts
   * split precincts were apportioned based on area lying in each component district
-* roll up election results at the state house/senate district level
-* average gubernatorial results across both years
-  * at district level
+* roll up (sum) election results at the state house/senate district level
+* average gubernatorial results across both years (unweighted, i.e. 50/50 weight)
+  * district-wide (at district level)
   * statewide
 * subtract statewide average from district-wide average, i.e. district-wide minus statewide
-* captures difference between district-wide gubernatorial results vs. statewide gubernatorial results, aka partisanship of the district relative to the state as a whole
+* this captures the difference between district-wide gubernatorial results vs. statewide gubernatorial results, aka partisanship of the district relative to the state as a whole
 
 ## Coming Soon
 
