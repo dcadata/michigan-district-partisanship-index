@@ -9,9 +9,7 @@
 
 (Click to view)
 
-### [Summary Tables](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/pvi-tables)
-
-### [MI Elections Data Sources](https://github.com/dcadata/michigan-district-partisanship-index/blob/master/michigan-elections-data-sources.md)
+### [Summary Tables](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/pvi-tables) | [MI Elections Data Sources](https://github.com/dcadata/michigan-district-partisanship-index/blob/master/michigan-elections-data-sources.md)
 
 ## High-Level Process
 
