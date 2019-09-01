@@ -1,4 +1,4 @@
-# Michigan State Legislative District Partisanship Index
+# Michigan State House/Senate District Partisanship Index
 
 ## Partisanship index for state house/senate districts for the State of Michigan
 
