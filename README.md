@@ -13,12 +13,13 @@
 
 ## High-Level Process
 
-* translated Cook PVI process from national to state level
+(translated Cook PVI process from national to state level)
+
 * get precinct-level gubernatorial election results for last two elections (2018, 2014) from SOS
 * use shapefiles to find out which precincts lie within which state house/senate districts
-  * split precincts were apportioned based on area lying in each component district
-* roll up (sum) election results at the state house/senate district level
-* average gubernatorial results across both years (unweighted, i.e. 50/50 weight)
+  * split precincts were apportioned based on area lying within each component district
+* roll up (sum) election results by state house/senate district (group by)
+* average gubernatorial results across both years (unweighted average, i.e. 50/50 weight)
   * district-wide (at district level)
   * statewide
 * subtract statewide average from district-wide average, i.e. district-wide minus statewide
