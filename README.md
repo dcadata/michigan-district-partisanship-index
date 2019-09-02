@@ -1,6 +1,6 @@
 # Michigan State House/Senate District Partisanship Index
 
-## Partisanship index for state house/senate districts for the State of Michigan
+***Calculating Cook-PVI-style partisanship index for each State House and State Senate District in the state of Michigan***
 
 |  |  |
 |:----:|:----:|
@@ -37,4 +37,4 @@
 
 **Tools:** Python - Pandas, Geopandas, Matplotlib
 
-**Contact:** devon@ankar.io
+**Contact:** [devon@ankar.io](devon@ankar.io)
