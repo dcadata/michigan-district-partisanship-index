@@ -31,7 +31,7 @@
 
 ## Coming Soon
 
-* ~~governor/~~president/senate/etc. results by state house/senate district
+* ~~governor/~~ president/senate/etc. results by state house/senate district
 * precinct-level election results maps
 * swing precincts maps
 * county-level maps for "key" counties
