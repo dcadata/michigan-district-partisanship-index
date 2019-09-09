@@ -1,3 +1,5 @@
+# Gubernatorial Elections by State House/Senate Districts
+
 In 2018, Michigan Gov. Gretchen Whitmer was elected by a 9.5% margin while carrying 56 out of 110 state house districts. Republicans held the chamber with 58 of 110 seats.
 
 In the state senate, Whitmer won 20 of 38 districts while Republicans held the chamber with 22 of 38 seats.
