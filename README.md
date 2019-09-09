@@ -9,17 +9,15 @@
 
 (Click to view)
 
-### [PVI Summary Tables](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/pvi-tables)
-
-***
-
 ### See also: [Gubernatorial Elections by State House/Senate Districts](gubernatorial-elections.md)
-
-### Summary Tables: [Governor](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/governor-tables), [State Legislature (both chambers)](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/state-lege-tables), [President](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/president-tables)
 
 ***
 
 ## [MI Elections Data Sources](https://github.com/dcadata/michigan-district-partisanship-index/blob/master/michigan-elections-data-sources.md)
+
+***
+
+### Summary Tables: [PVI/Partisanship Index](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/pvi-tables), [Governor](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/governor-tables), [State Legislature (both chambers)](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/state-lege-tables), [President](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/president-tables)
 
 ***
 
