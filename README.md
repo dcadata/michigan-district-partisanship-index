@@ -11,6 +11,10 @@
 
 ### [Summary Tables](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/pvi-tables) | [MI Elections Data Sources](https://github.com/dcadata/michigan-district-partisanship-index/blob/master/michigan-elections-data-sources.md)
 
+### See also: [Gubernatorial Elections by State House/Senate Districts](gubernatorial-elections.md)
+
+***
+
 ## High-Level Process
 
 (translated Cook PVI process from national to state level)
@@ -27,10 +31,10 @@
 
 ## Coming Soon
 
-* governor/president/senate/etc. results by state house/senate district
+* ~~governor/~~president/senate/etc. results by state house/senate district
 * precinct-level election results maps
 * swing precincts maps
-* county-level maps for swing counties
+* county-level maps for "key" counties
 * partisanship index calculation for other states (TX? NC?)
 * Python code will be posted soon
 
