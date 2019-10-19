@@ -35,9 +35,8 @@
 
 ## Coming Soon
 
-* ~~governor/~~ president/senate/etc. results by state house/senate district
-* precinct-level election results maps
-* swing precincts maps
+* ~~governor/president/senate/etc. results by state house/senate district~~
+* ~~precinct-level election results maps~~
 * county-level maps for "key" counties
 * partisanship index calculation for other states (TX? NC?)
 * Python code will be posted soon
@@ -47,3 +46,5 @@
 **Tools:** Python - Pandas, Geopandas, Matplotlib
 
 **Contact:** [devon@ankar.io](devon@ankar.io)
+
+Last update 10/18/2019
