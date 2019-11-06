@@ -11,7 +11,7 @@ In the state senate, Whitmer won 20 of 38 districts while Republicans (also a on
 
 (Click to view)
 
-For comparison, in 2014, former Gov. Rick Snyder was re-elected by a 4% margin while carrying 69 of 110 house districts and 25 of 38 senate districts.
+For comparison, in 2014, former Gov. Rick Snyder was re-elected by a 4% margin - less than half of Whitmer's - while carrying 69 of 110 house districts and 25 of 38 senate districts.
 
 | | |
 |:-----:|:-----:|
