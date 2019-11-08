@@ -9,13 +9,16 @@
 
 (Click to view)
 
-## See also: [Gubernatorial Elections by State House/Senate Districts](gubernatorial-elections.md)
+### See also: [Gubernatorial Elections by State House/Senate Districts](gubernatorial-elections.md)
 
-***
+**[MI Elections Data Sources](https://github.com/dcadata/michigan-district-partisanship-index/blob/master/michigan-elections-data-sources.md)**
 
-### [MI Elections Data Sources](https://github.com/dcadata/michigan-district-partisanship-index/blob/master/michigan-elections-data-sources.md)
+**Summary Tables:**
 
-### Summary Tables: [PVI/Partisanship Index](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/pvi-tables), [Governor](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/governor-tables), [State Legislature (both chambers)](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/state-lege-tables), [President](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/president-tables)
+* [PVI/Partisanship Index](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/pvi-tables)
+* [Governor](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/governor-tables)
+* [State Legislature (both chambers)](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/state-lege-tables)
+* [President](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/president-tables)
 
 ***
 
@@ -47,4 +50,4 @@
 
 **Contact:** [devon@ankar.io](devon@ankar.io)
 
-Last update 10/18/2019
+**Last Update:** 10/18/2019
