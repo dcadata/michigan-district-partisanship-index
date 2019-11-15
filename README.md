@@ -36,7 +36,7 @@
 * subtract statewide average from district-wide average, i.e. district-wide minus statewide
 * this captures the difference between district-wide gubernatorial results vs. statewide gubernatorial results, aka partisanship of the district relative to the state as a whole
 
-## Coming Soon
+## To Do
 
 * ~~governor/president/senate/etc. results by state house/senate district~~
 * ~~precinct-level election results maps~~
@@ -46,7 +46,7 @@
 
 ***
 
-## Partisanship and Turnout
+### Note that precinct-level maps do NOT account for turnout! The color/saturation reflects only partisanship, i.e. how Democratic- or Republican-leaning the precinct was in the named election, NOT the number of votes!
 
 2010/2014/2018 are midterm years while 2008/2012/2016 are presidential years. Midterm elections typically have lower voter turnout.
 
