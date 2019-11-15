@@ -5,6 +5,7 @@ Precinct-level election maps for Oakland County, covering the last **6** major e
 Also includes comparisons between different elections, e.g. Governor 2010 vs. Governor 2018.
 
 ***
+
 | | |
 |:--:|:--:|
 | ![President 2008 Oakland by Precinct](https://raw.githubusercontent.com/dcadata/michigan-district-partisanship-index/master/_oakland-county/President%202008%20Oakland%20by%20Precinct.png) | ![Governor 2010 Oakland by Precinct](https://raw.githubusercontent.com/dcadata/michigan-district-partisanship-index/master/_oakland-county/Governor%202010%20Oakland%20by%20Precinct.png) |
