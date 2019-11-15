@@ -36,14 +36,6 @@
 * subtract statewide average from district-wide average, i.e. district-wide minus statewide
 * this captures the difference between district-wide gubernatorial results vs. statewide gubernatorial results, aka partisanship of the district relative to the state as a whole
 
-## To Do
-
-* ~~governor/president/senate/etc. results by state house/senate district~~
-* ~~precinct-level election results maps~~
-* county-level maps for "key" counties
-* compare bluer/redder precincts and their relative turnout change 2016 to 2018 to determine if bluer or redder areas had higher turnout in 2018 (or no difference)
-* Python code will be posted soon
-
 ***
 
 ### Note that precinct-level maps do NOT account for turnout! The color/saturation reflects only partisanship, i.e. how Democratic- or Republican-leaning the precinct was in the named election, NOT the number of votes!
@@ -55,6 +47,16 @@ While some districts or precincts appear to have flipped from preferring one maj
 ## Why are some maps missing precincts?
 
 Because the data did not merge 100% correctly between the shapefiles and the election results. I made corrections to get as many precincts as I could, but there are still a few stragglers, which show up as white on the maps. Sorry.
+
+***
+
+## To Do
+
+* ~~governor/president/senate/etc. results by state house/senate district~~
+* ~~precinct-level election results maps~~
+* *county-level maps for "key" counties - in progress*
+* compare bluer/redder precincts and their relative turnout change 2016 to 2018 to determine if bluer or redder areas had higher turnout in 2018 (or no difference)
+* Python code will be posted soon
 
 ***
 
