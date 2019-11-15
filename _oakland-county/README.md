@@ -4,6 +4,8 @@ Precinct-level election maps for Oakland County, covering the last **6** major e
 
 Also includes comparisons between different elections, e.g. Governor 2010 vs. Governor 2018.
 
+Turnout map saturation is normalized across ALL elections (from 2008-2018).
+
 ***
 
 | | |
