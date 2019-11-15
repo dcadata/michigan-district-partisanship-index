@@ -41,8 +41,20 @@
 * ~~governor/president/senate/etc. results by state house/senate district~~
 * ~~precinct-level election results maps~~
 * county-level maps for "key" counties
-* partisanship index calculation for other states (TX? NC?)
+* compare bluer/redder precincts and their relative turnout change 2016 to 2018 to determine if bluer or redder areas had higher turnout in 2018 (or no difference)
 * Python code will be posted soon
+
+***
+
+## Partisanship and Turnout
+
+2010/2014/2018 are midterm years while 2008/2012/2016 are presidential years. Midterm elections typically have lower voter turnout.
+
+While some precincts appear to have flipped from preferring one major party to preferring the other (and may have flipped *back*, too!), this can be attributable to a change in turnout as much as to some change in net partisanship. To get the full picture, it is important to look not just at the partisanship maps, but also at the corresponding turnout maps.
+
+## Why are some maps missing precincts?
+
+Because the data did not merge 100% correctly between the shapefiles and the election results. I made corrections to get as many precincts as I could, but there are still a few stragglers, which show up as white on the maps. Sorry.
 
 ***
 
@@ -50,4 +62,4 @@
 
 **Contact:** [devon@ankar.io](devon@ankar.io)
 
-**Last Update:** 10/18/2019
+**Last Update:** 11/15/2019
