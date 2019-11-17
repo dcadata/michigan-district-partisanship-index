@@ -4,4 +4,4 @@
 
 [![Panorama](https://raw.githubusercontent.com/dcadata/michigan-district-partisanship-index/master/precinct-level-maps/peters-vs-trump-summary.png)](https://raw.githubusercontent.com/dcadata/michigan-district-partisanship-index/master/precinct-level-maps/peters-vs-trump-summary.png)
 
-### [View more precinct-level maps](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/precinct-level-maps)
+### [View more precinct-level maps](precinct-level-maps)
