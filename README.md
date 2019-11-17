@@ -13,12 +13,12 @@
 
 **Summary Tables:**
 
-* [PVI/Partisanship Index](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/pvi-tables)
-* [Governor](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/governor-tables)
-* [State Legislature (both chambers)](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/state-lege-tables)
-* [President](https://github.com/dcadata/michigan-district-partisanship-index/tree/master/president-tables)
+* [PVI/Partisanship Index](pvi-tables)
+* [Governor](governor-tables)
+* [State Legislature (both chambers)](state-lege-tables)
+* [President](president-tables)
 
-**[MI Elections Data Sources](https://github.com/dcadata/michigan-district-partisanship-index/blob/master/michigan-elections-data-sources.md)**
+**[MI Elections Data Sources](michigan-elections-data-sources.md)**
 
 ***
 
