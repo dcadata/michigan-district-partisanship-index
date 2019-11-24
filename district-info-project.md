@@ -20,13 +20,13 @@ Given this use case, districts with missing data were dropped and voteshares (pe
 | `pvi` | Cook's Partisan Voter Index (PVI) | [The Cook Political Report](https://cookpolitical.com/pvi-0) |  |
 | `pres2016` | How district voted for US President in 2016 | [Daily Kos Elections' presidential results by congressional district for 2016, 2012, and 2008](https://docs.google.com/spreadsheets/d/1zLNAuRqPauss00HDz4XbTH2HqsCzMe0pR8QmD1K8jk8/edit#gid=0) | for congressional districts used in 2018 elections |
 | `pres2012` | How district voted for US President in 2012 | [Daily Kos Elections' presidential results by congressional district for 2016, 2012, and 2008](https://docs.google.com/spreadsheets/d/1zLNAuRqPauss00HDz4XbTH2HqsCzMe0pR8QmD1K8jk8/edit#gid=0) | for congressional districts used in 2018 elections |
-| `incumbent_party` | Party affiliation of the Representative currently occupying the seat | [@unitedstates/ congress-legislators](https://github.com/unitedstates/congress-legislators) | Nov 2019- bot now refreshes daily; pulls daily from the source |
-| `incumbent_name` | Name of the Representative currently occupying the seat | [@unitedstates/ congress-legislators](https://github.com/unitedstates/congress-legislators) | Nov 2019- bot now refreshes daily; pulls daily from the source |
+| `incumbent_party` | Party affiliation of the Representative currently occupying the seat | [@unitedstates/ congress-legislators](https://github.com/unitedstates/congress-legislators) | bot now refreshes daily; pulls daily from the source (as of 11/19) |
+| `incumbent_name` | Name of the Representative currently occupying the seat | [@unitedstates/ congress-legislators](https://github.com/unitedstates/congress-legislators) | bot now refreshes daily; pulls daily from the source (as of 11/19) |
 | `lean` | FiveThirtyEight's Partisan Lean - District | [their GitHub](https://github.com/fivethirtyeight/data/tree/master/partisan-lean) |
 | `pretty_dist_code` | Nice district code to display | (created) |
 | `house18net` | Margin of victory in 2018 US House elections, e.g. `R+6` means Republican won by 6%, `D+6` means Democrat won by 6% | [U.S. House 1976–2018 from MIT Election Data and Science Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2) - uses 2018 districts | Originally used [2018 U.S. House of Representatives election results (unofficial)](/2018-house-results) before MIT dataset was published on Apr 24, 2019 |
 | `house16net` | Margin of victory in 2016 US House elections | [CLEA Lower Chamber Elections Archive](http://www.electiondataarchive.org/clea-lower-chamber-elections-archive.php) - uses 2016 districts | MIT also has these elections; there are several reliable sources for 2016 |
-| `538 Trump Score` | [FiveThirtyEight's Trump Score available from their GitHub](https://github.com/fivethirtyeight/data/tree/master/congress-trump-score) |  | Nov 2019- pulled dynamically/live |
+| `538 Trump Score` | FiveThirtyEight's Trump Score | [their GitHub](https://github.com/fivethirtyeight/data/tree/master/congress-trump-score) | pulled dynamically/live (as of 11/19) |
 
 ***
 
