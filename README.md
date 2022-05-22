@@ -1,5 +1,7 @@
 # Michigan State House/Senate District Partisanship Index
 
+## Uses 2011 maps
+
 ***Calculating Cook-PVI-style partisanship index for each State House and State Senate District in the state of Michigan***
 
 |  |  |
